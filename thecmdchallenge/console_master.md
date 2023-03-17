@@ -1,6 +1,6 @@
 * `[ls]` Print current directory path
 * `[ls -a]` List all the files from the current directory including the hidden ones
-* `[ls -R]` Now list all the files inside the workspace, recursively (all files in the hierarchy).
+* `[ls -R]` 
 * `[cd, cat]` Go to the last level below the small-name folder and write in the console the content of the trophy.txt file.
 * `[cd ls]` Move back to the root and get List all files with the javascript tipical extension
 * `[mkdir]` create a new folder inside `funcode/the-most-funny/` called "not-that-funny".
